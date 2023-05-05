@@ -37,10 +37,10 @@ return [
         'redirect' => 'http://localhost:8000/auth/facebook/callback',
     ],
 
-    'twitter' => [
-        'client_id' => "1533113536486207488-tOhWBY1CDGPcQ2BwfoD1S9ds4HZZOm",
-        'client_secret' => "hx8Fh7yRqJzduwqJBpPa9TJYXmOXwqOYDH1NeBZMKG8hF",
-        'redirect' => 'http://127.0.0.1:8000/auth/twitter/callback',
+    'github' => [
+        'client_id' => "Iv1.f68be934acba0e1a",
+        'client_secret' => "e31d215711d8d2aaa8efcfd934ba34bbb016fa1b",
+        'redirect' => 'http://localhost:8000/auth/github/callback',
     ],
 
     'google' => [
